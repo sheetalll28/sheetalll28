@@ -5,23 +5,3 @@
 </p>
 
 ---
-
-## 🚀 About Me
-
-* 🎯 Focused on improving my skills and building meaningful projects
-
----
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheetalll28&show_icons=true&theme=default" />
-</p>
-
----
-
-<p align="center">
-  Thanks for visiting ✨
-</p>
